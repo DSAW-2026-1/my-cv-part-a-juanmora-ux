@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7-4AltFg)
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
@@ -78,9 +79,12 @@ section {
 }
 ```
 
+
 ## Ideas para iniciar
 - Piensa en un diseño limpio y profesional.
 - Utiliza recursos en línea como [Google Fonts](https://fonts.google.com/) para elegir una buena tipografía.
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+## Link: https://dsaw-2026-1.github.io/my-cv-part-a-juanmora-ux/
