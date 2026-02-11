@@ -79,9 +79,12 @@ section {
 }
 ```
 
+
 ## Ideas para iniciar
 - Piensa en un diseño limpio y profesional.
 - Utiliza recursos en línea como [Google Fonts](https://fonts.google.com/) para elegir una buena tipografía.
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+## Link: https://dsaw-2026-1.github.io/my-cv-part-a-juanmora-ux/
